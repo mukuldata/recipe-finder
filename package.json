@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "http://mukuldata.github.io/recipe-finder",
+    "engines" : { 
+    "npm" : "7.0.0",
+    "node" : "16.0.0"
+  },
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.4",
